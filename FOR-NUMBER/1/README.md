@@ -12,6 +12,7 @@ for(let i = <VALOR_INICIAL>; i <= <VALOR_FINAL>; i = i + <VALOR_SALTO>){
 }
 `
 
+
 ## Pista 2
 
 La respuesta de la primera pregunta es uno, de la segunda es 1000 si la condicion logica es menor e igual o mil uno si es menor, y el valor de salto es uno porque no especifica ninguno en especial. 
