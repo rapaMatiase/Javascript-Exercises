@@ -1,4 +1,4 @@
-for(let i = 1 ; i < 1001 ; i--){
+for(let i = 0 ; i < 1001 ; i++){
     console.log(i)
 }
 

@@ -1,5 +1,3 @@
-# Ejercicio 2
+# Ejercicio 7
 
-## Enunciado
-
-Imprimir en consola los numeros multiplos de 3.
+Realizar un programa que muestre por en consola los numeros multiplos de 3.
